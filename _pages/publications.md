@@ -5,6 +5,7 @@ title: papers
 description: Following the convention of theoretical computer science, authors are listed alphabetically.
 nav: true
 nav_order: 2
+math: true
 ---
 
 {% include bib_search.liquid %}
