@@ -13,7 +13,7 @@ subtitle: <a href='#'>Affiliations</a>. ITCS, Shanghai University of Finance and
   #  <p>123 your address street</p>
   #  <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
@@ -25,6 +25,16 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+
+<h2>Selected Publications</h2>
+<div class="publications">
+  {% bibliography --group_by none --query @*[selected=1]* %}
+  {% bibliography --group_by none --query @*[selected=2]* %}
+  {% bibliography --group_by none --query @*[selected=3]* %}
+  {% bibliography --group_by none --query @*[selected=4]* %}
+  {% bibliography --group_by none --query @*[selected=5]* %}
+</div>
 ---
 
 I am Bo Peng (彭博), a final-year Ph.D. student at [Shanghai University of Finance and Economics](https://www.sufe.edu.cn), where I am also a student member of the [Institute for Theoretical Computer Science](https://itcs.sufe.edu.cn). I am fortunate to be advised by [Zhihao Gavin Tang](http://zhihaotang.com). 
