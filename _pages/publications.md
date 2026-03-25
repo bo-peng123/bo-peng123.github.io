@@ -1,20 +1,19 @@
+
 ---
 layout: page
-permalink: /publications/
+permalink: /papers/
 title: papers
-description: publications by categories in reversed chronological order. Authors are listed in alphabetical order.
+description: Following the convention of theoretical computer science, authors are listed alphabetically.
 nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
 <div class="publications">
 
-{% bibliography %}
+<h2 class="year">Publications</h2>
+{% bibliography -f published %}
+
+<h2 class="year">Working Papers</h2>
+{% bibliography -f working %}
 
 </div>
