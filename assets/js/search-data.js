@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-papers",
           title: "papers",
-          description: "Following the convention of theoretical computer science, authors are listed alphabetically.",
+          description: "publications by categories in reversed chronological order. Authors are listed in alphabetical order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
