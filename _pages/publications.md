@@ -11,11 +11,11 @@ nav_order: 2
 
 <div class="publications">
 
+<h2 class="year">Working Papers</h2>
+{% bibliography -f papers --query @unpublished %}
+
 <h2 class="year">Publications</h2>
 {% bibliography -f papers --query @inproceedings %}
 {% bibliography -f papers --query @article %}
-
-<h2 class="year">Working Papers</h2>
-{% bibliography -f papers --query @unpublished %}
 
 </div>
