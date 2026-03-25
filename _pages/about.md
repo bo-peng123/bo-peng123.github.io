@@ -17,12 +17,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -31,7 +31,8 @@ I am Bo Peng (彭博), a final-year Ph.D. student at [Shanghai University of Fin
 
 My research interests lie in theoretical computer science, with a particular focus on online algorithms and algorithmic game theory. Additionally, I am interested in the intersection of game theory, optimization, and machine learning. 
 
-Prior to my Ph.D., I earned my Bachelor's degree from the School of Mathematical Sciences at Tongji University, and my Master's degree from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences.  
+Prior to my Ph.D., I earned my Bachelor's degree from the School of Mathematical Sciences at Tongji University, and my Master's degree from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences. Recently, I also spent time as a visiting student at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg), working with Prof. [Xiaohui Bei](https://personal.ntu.edu.sg/xhbei/).  
+
 
 You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
