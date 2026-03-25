@@ -11,10 +11,10 @@ ninja.data = [{
     },
   },{id: "nav-papers",
           title: "papers",
-          description: "publications by categories in reversed chronological order. Authors are listed in alphabetical order.",
+          description: "Following the convention of theoretical computer science, authors are listed alphabetically.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/papers/";
           },
         },{id: "nav-cv",
           title: "CV",
