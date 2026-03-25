@@ -10,7 +10,7 @@ nav_order: 2
 <div class="publications">
 
 <h2 class="year">Working Papers</h2>
-{% bibliography -f papers -q @*[journal=ArXiv || journal=preprint || journal=In submission || journal=working paper || type=unpublished]* %}
+{% bibliography -f papers -q @*[type=unpublished]* %}
 
 <h2 class="year">Conference Papers</h2>
 {% bibliography -f papers -q @*[type=inproceedings]* %}
