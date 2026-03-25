@@ -18,10 +18,10 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "My current Curriculum Vitae.",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/_pages/cv/";
           },
         },{id: "nav-teaching",
           title: "teaching",
