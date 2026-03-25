@@ -33,17 +33,40 @@
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
 
-"Tang, Zhihao Gavin":
-  - url: "http://zhihaotang.com"
 
-"Feng, Yi":
-  - url: "https://sites.google.com/view/yifeng95524/home"
+"Tang":
+  - firstname: ["Zhihao Gavin", "Zhihao"]
+    url: http://zhihaotang.com
 
-"Feng, Yiding":
-  - url: "https://www.ydfeng.us"
+"Feng":
+  - firstname: ["Yiding"]
+    url: https://www.ydfeng.us
 
-"Ma, Mengfan":
-  - url: "https://mengfan-ma.github.io"
+"Feng":
+  - firstname: ["Yi"]
+    url: https://sites.google.com/view/yifeng95524/home
 
-"Wan, Zongqi":
-  - url: "https://zongqiwan.com"
+
+"Ma":
+  - firstname: ["Mengfan"]
+    url: https://mengfan-ma.github.io
+
+"Wan":
+  - firstname: ["Zongqi"]
+    url: https://zongqiwan.com
+
+"Li":
+  - firstname: ["Ping"]
+    url: https://pingli0423.github.io
+
+"Panageas":
+  - firstname: ["Ioannis"]
+    url: https://panageas.github.io
+
+"Fu":
+  - firstname: ["Hu"]
+    url: https://www.fuhuthu.com
+
+"Xiao":
+  - firstname: ["Wang"]
+    url: https://xiiaowang.github.io
