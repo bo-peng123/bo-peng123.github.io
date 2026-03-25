@@ -27,7 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Bo Peng (彭博), a final-year Ph.D. student at [Shanghai University of Finance and Economics](https://www.sufe.edu.cn), where I am also a student member of the [Institute for Theoretical Computer Science](https://itcs.sufe.edu.cn). I am fortunate to be advised by [Zhihao Gavin Tang](http://zhihaotang.com). 
+
+My research interests lie in theoretical computer science, with a particular focus on online algorithms and algorithmic game theory. Additionally, I am interested in the intersection of game theory, optimization, and machine learning. 
+
+Prior to my Ph.D., I earned my Bachelor's degree from the School of Mathematical Sciences at Tongji University, and my Master's degree from the Academy of Mathematics and Systems Science, Chinese Academy of Sciences.  
+
+You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
