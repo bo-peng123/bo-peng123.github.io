@@ -300,14 +300,8 @@ scholar:
 
 
   query: "@*"
-  group_by: type
-  group_order: ascending
-  type_aliases:
-  article: Publications
-  inproceedings: Publications
-  unpublished: Working Papers
-  preprint: Working Papers
-  misc: Working Papers
+  group_by: year
+  group_order: descending
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
