@@ -302,11 +302,7 @@ scholar:
   group_by: year
   group_order: descending
 
-  type_names:
-    article: "Journal Articles"
-    inproceedings: "Conference Proceedings"
-    preprint: "Working Papers"
-    unpublished: "Working Papers"
+  
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
