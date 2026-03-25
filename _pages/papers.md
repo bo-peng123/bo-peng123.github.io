@@ -1,19 +1,21 @@
-
-
 ---
 layout: page
+permalink: /publications/
 title: papers
-permalink: /papers/
-description: papers by categories in reversed chronological order. Following the convention of theoretical computer science, authors are listed alphabetically.
+description: Following the convention of theoretical computer science, authors are listed alphabetically.
 nav: true
 nav_order: 2
-
-# 关键配置
-content:
-  group_by: type  # 重点：按类型分组
-  group_order: descending # 组内按时间倒序
 ---
 
 <div class="publications">
-{% bibliography %}
+
+<h2 class="year">Working Papers</h2>
+{% bibliography -f papers -q @*[journal=ArXiv || journal=preprint || journal=In submission || journal=working paper || type=unpublished]* %}
+
+<h2 class="year">Conference Papers</h2>
+{% bibliography -f papers -q @*[type=inproceedings]* %}
+
+<h2 class="year">Journal Papers</h2>
+{% bibliography -f papers -q @*[type=article]* %}
+
 </div>
