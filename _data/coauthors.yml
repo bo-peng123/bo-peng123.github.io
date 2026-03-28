@@ -68,3 +68,19 @@
 "wang":
   - firstname: ["Xiao"]
     url: https://xiiaowang.github.io
+
+"bei":
+  - firstname: ["Xiaohui"]
+    url: https://personal.ntu.edu.sg/xhbei/
+
+"toikka":
+  - firstname: ["Juuso"]
+    url: https://bepp.wharton.upenn.edu/profile/toikka/
+
+"vohra":
+  - firstname: ["Rakesh V.", "Rakesh", "R. V."]
+    url: "https://sites.google.com/site/quaerereverum9/"
+
+"kambhampati":
+  - firstname: ["Ashwin", "A."]
+    url: "https://sites.google.com/view/ashwinkambhampati/ashwin-kambhampati"
