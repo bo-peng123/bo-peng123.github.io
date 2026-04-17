@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-03'
+  last_updated: '2026-04-17'
 papers:
   kuVHOCYAAAAJ:2osOgNQ5qMEC:
     citations: 17
@@ -10,7 +10,7 @@ papers:
     title: Gradient Estimates For  And Liouville Theorems
     year: '2021'
   kuVHOCYAAAAJ:IjCSPb-OGe4C:
-    citations: 16
+    citations: 17
     title: Randomization and the robustness of linear contracts
     year: '2025'
   kuVHOCYAAAAJ:Tyk-4Ss8FVUC:
@@ -30,11 +30,11 @@ papers:
     title: 'Gradient Estimates and Liouville Theorems for '
     year: '2023'
   kuVHOCYAAAAJ:d1gkVwhDpl0C:
-    citations: 7
+    citations: 8
     title: Optimal robust contract design
     year: '2024'
   kuVHOCYAAAAJ:qjMakFHDy7sC:
-    citations: 2
+    citations: 3
     title: 'Revisiting ranking for online bipartite matching with random arrivals: the primal-dual analysis'
     year: '2025'
   kuVHOCYAAAAJ:u-x6o8ySG0sC:
