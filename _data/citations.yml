@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-18'
 papers:
   kuVHOCYAAAAJ:2osOgNQ5qMEC:
-    citations: 18
+    citations: 19
     title: 'On the last-iterate convergence in time-varying zero-sum games: Extra gradient succeeds where optimism fails'
     year: '2023'
   kuVHOCYAAAAJ:9yKSN-GCB0IC:
@@ -34,7 +34,7 @@ papers:
     title: Optimal robust contract design
     year: '2024'
   kuVHOCYAAAAJ:qjMakFHDy7sC:
-    citations: 3
+    citations: 5
     title: 'Revisiting ranking for online bipartite matching with random arrivals: the primal-dual analysis'
     year: '2025'
   kuVHOCYAAAAJ:u-x6o8ySG0sC:
