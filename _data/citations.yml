@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-07-22'
 papers:
   kuVHOCYAAAAJ:2osOgNQ5qMEC:
-    citations: 21
+    citations: 22
     title: 'On the last-iterate convergence in time-varying zero-sum games: Extra gradient succeeds where optimism fails'
     year: '2023'
   kuVHOCYAAAAJ:IjCSPb-OGe4C:
@@ -10,15 +10,15 @@ papers:
     title: Randomization and the robustness of linear contracts
     year: '2025'
   kuVHOCYAAAAJ:Tyk-4Ss8FVUC:
-    citations: 15
+    citations: 14
     title: Gradient Estimates For  And Liouville Theorems
     year: '2020'
   kuVHOCYAAAAJ:UeHWp8X0CEIC:
-    citations: 44
+    citations: 43
     title: 'Order selection prophet inequality: From threshold optimization to arrival time design'
     year: '2022'
   kuVHOCYAAAAJ:W7OEmFMy1HYC:
-    citations: 0
+    citations: 1
     title: Searching for Optimal Prices in Two-Sided Markets
     year: '2026'
   kuVHOCYAAAAJ:Y0pCki6q_DkC:
