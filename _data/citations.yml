@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-07-29'
 papers:
   kuVHOCYAAAAJ:2osOgNQ5qMEC:
     citations: 22
@@ -10,7 +10,7 @@ papers:
     title: Randomization and the robustness of linear contracts
     year: '2025'
   kuVHOCYAAAAJ:Tyk-4Ss8FVUC:
-    citations: 14
+    citations: 15
     title: Gradient Estimates For  And Liouville Theorems
     year: '2020'
   kuVHOCYAAAAJ:UeHWp8X0CEIC:
@@ -30,14 +30,14 @@ papers:
     title: Optimal robust contract design
     year: '2024'
   kuVHOCYAAAAJ:qjMakFHDy7sC:
-    citations: 5
+    citations: 6
     title: 'Revisiting ranking for online bipartite matching with random arrivals: the primal-dual analysis'
     year: '2025'
   kuVHOCYAAAAJ:u-x6o8ySG0sC:
     citations: 19
-    title: "Yau type gradient estimates for \u0394u+ au (log\u2061 u) p+ bu= 0 on Riemannian manifolds"
-    year: '2021'
+    title: Yau Type Gradient Estimates For  On Riemannian Manifolds
+    year: '2020'
   kuVHOCYAAAAJ:u5HHmVD_uO8C:
     citations: 1
     title: 'Contextual Search in Principal-Agent Games: The Curse of Degeneracy'
-    year: '2026'
+    year: '2025'
