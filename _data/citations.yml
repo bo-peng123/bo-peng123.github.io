@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-03'
 papers:
   kuVHOCYAAAAJ:2osOgNQ5qMEC:
-    citations: 22
+    citations: 21
     title: 'On the last-iterate convergence in time-varying zero-sum games: Extra gradient succeeds where optimism fails'
     year: '2023'
   kuVHOCYAAAAJ:IjCSPb-OGe4C:
-    citations: 18
+    citations: 19
     title: Randomization and the robustness of linear contracts
     year: '2025'
   kuVHOCYAAAAJ:Tyk-4Ss8FVUC:
@@ -14,7 +14,7 @@ papers:
     title: Gradient Estimates For  And Liouville Theorems
     year: '2020'
   kuVHOCYAAAAJ:UeHWp8X0CEIC:
-    citations: 43
+    citations: 44
     title: 'Order selection prophet inequality: From threshold optimization to arrival time design'
     year: '2022'
   kuVHOCYAAAAJ:W7OEmFMy1HYC:
@@ -25,19 +25,23 @@ papers:
     citations: 6
     title: 'Gradient Estimates and Liouville Theorems for '
     year: '2023'
+  kuVHOCYAAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: Random-Order Online Facility Location Beyond Uniform Opening Costs
+    year: '2026'
   kuVHOCYAAAAJ:d1gkVwhDpl0C:
-    citations: 8
+    citations: 7
     title: Optimal robust contract design
     year: '2024'
   kuVHOCYAAAAJ:qjMakFHDy7sC:
-    citations: 6
+    citations: 7
     title: 'Revisiting ranking for online bipartite matching with random arrivals: the primal-dual analysis'
     year: '2025'
   kuVHOCYAAAAJ:u-x6o8ySG0sC:
-    citations: 19
-    title: Yau Type Gradient Estimates For  On Riemannian Manifolds
-    year: '2020'
+    citations: 18
+    title: "Yau type gradient estimates for \u0394u+ au (log\u2061 u) p+ bu= 0 on Riemannian manifolds"
+    year: '2021'
   kuVHOCYAAAAJ:u5HHmVD_uO8C:
     citations: 1
     title: 'Contextual Search in Principal-Agent Games: The Curse of Degeneracy'
-    year: '2025'
+    year: '2026'
