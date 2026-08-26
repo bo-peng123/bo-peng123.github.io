@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-26'
 papers:
   kuVHOCYAAAAJ:2osOgNQ5qMEC:
     citations: 21
@@ -21,6 +21,10 @@ papers:
     citations: 1
     title: Searching for Optimal Prices in Two-Sided Markets
     year: '2026'
+  kuVHOCYAAAAJ:WF5omc3nYNoC:
+    citations: 0
+    title: Harmonic Ranking for Edge-Weighted Oblivious Matching
+    year: '2026'
   kuVHOCYAAAAJ:Y0pCki6q_DkC:
     citations: 6
     title: 'Gradient Estimates and Liouville Theorems for '
@@ -33,12 +37,16 @@ papers:
     citations: 7
     title: Optimal robust contract design
     year: '2024'
+  kuVHOCYAAAAJ:eQOLeE2rZwMC:
+    citations: 2
+    title: Breaking the 4-Approximation Barrier in Strategyproof Two-Facility Location
+    year: '2026'
   kuVHOCYAAAAJ:qjMakFHDy7sC:
-    citations: 7
+    citations: 8
     title: 'Revisiting ranking for online bipartite matching with random arrivals: the primal-dual analysis'
     year: '2025'
   kuVHOCYAAAAJ:u-x6o8ySG0sC:
-    citations: 18
+    citations: 19
     title: "Yau type gradient estimates for \u0394u+ au (log\u2061 u) p+ bu= 0 on Riemannian manifolds"
     year: '2021'
   kuVHOCYAAAAJ:u5HHmVD_uO8C:
