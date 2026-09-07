@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-26'
+  last_updated: '2026-09-07'
 papers:
   kuVHOCYAAAAJ:2osOgNQ5qMEC:
     citations: 21
@@ -38,8 +38,8 @@ papers:
     title: Optimal robust contract design
     year: '2024'
   kuVHOCYAAAAJ:eQOLeE2rZwMC:
-    citations: 2
-    title: Breaking the 4-Approximation Barrier in Strategyproof Two-Facility Location
+    citations: 3
+    title: Breaking the 4-approximation barrier in strategyproof two-facility location
     year: '2026'
   kuVHOCYAAAAJ:qjMakFHDy7sC:
     citations: 8
