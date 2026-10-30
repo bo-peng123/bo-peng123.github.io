@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. ITCS, Shanghai University of Finance and Economics
+subtitle: 'Postdoctoral Researcher, <a href="https://english.tau.ac.il/">Tel Aviv University</a>'
 
 # profile:
   # align: right
