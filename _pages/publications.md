@@ -13,10 +13,9 @@ math: true
 <div class="publications">
 
 <h2 class="year">Working Papers</h2>
-{% bibliography -f papers --query @unpublished %}
+{% bibliography -f papers --query @unpublished --group_by year --group_order descending %}
 
 <h2 class="year">Publications</h2>
-{% bibliography -f papers --query @inproceedings %}
-{% bibliography -f papers --query @article %}
+{% bibliography -f papers --query !@unpublished --group_by year --group_order descending %}
 
 </div>
