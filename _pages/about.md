@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 'Postdoctoral Researcher, <a href="https://english.tau.ac.il/">Tel Aviv University</a>'
+subtitle: <a href='#'>Affiliations</a>. Tel Aviv University
 
 # profile:
   # align: right
